@@ -1,0 +1,8 @@
+{
+  "appId": "kr.souljjab.reportsaver",
+  "appName": "ReportSaver",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}
